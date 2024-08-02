@@ -506,7 +506,7 @@
     {
         "Cliente": 73,
         "Usuário": "515181818",
-        "Vencimento": "cancelado",
+        "cancelado": "cancelado",
         "Notas": "Caio irmão",
         "Celular": "5571986262579"
     }
