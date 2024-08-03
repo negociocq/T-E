@@ -1,1 +1,20 @@
-contatos
+[
+    {
+        "Cliente": 1,
+        "Usuário": "4651888",
+        "Notas": "Sapo barbearia",
+        "Celular": "55 7199298-0889"
+    },
+    {
+        "Cliente": 2,
+        "Usuário": "94648181",
+        "Notas": "Jessica Andressa",
+        "Celular": "5571991386673"
+    },
+    {
+        "Cliente": 3,
+        "Usuário": "3333451",
+        "Notas": "Tamires lorena",
+        "Celular": "5571992621895"
+    }
+]
