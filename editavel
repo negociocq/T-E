@@ -1,142 +1,25 @@
+seguindo o modelo do codigo json
+
 [
     {
-        "Cliente": 1,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
+        "Usuário": "461881010",
+        "Vencimento": "05/01/2024 15:30:00",
+        "Notas": "João Silva"
     },
+
+aplica nessa lista que vou lhe enviar
+
+
+____________________________________________________
+
+
+
+seguindo o modelo do codigo json
+
+[
     {
-        "Cliente": 2,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
+        "Usuário": "461881010",
+        "Celular": "71987964412"
     },
-    {
-        "Cliente": 3,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 4,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 5,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 6,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 7,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 8,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 9,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 10,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 11,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 12,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 13,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 14,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 15,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 16,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 17,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 18,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 19,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    },
-    {
-        "Cliente": 20,
-        "Usuário": "",
-        "Vencimento": "",
-        "Notas": "",
-        "Celular": ""
-    }
-]
+
+aplica nessa lista que vou lhe enviar
